@@ -35,5 +35,5 @@ This project is an interactive sales dashboard developed using Python and Dash. 
    http://127.0.0.1:8050
 
 
-![Dashboard Screenshot](assets/dashboard.png)
-![Dashboard Screenshot](assets/dashboard2.png)
+![Dashboard Screenshot](assets/dashboard.png.png)
+![Dashboard Screenshot](assets/dashboard2.png.png)
